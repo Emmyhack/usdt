@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Green background circle -->
+  <circle cx="100" cy="100" r="95" fill="#26A17B" stroke="#1a6f54" stroke-width="2"/>
+  
+  <!-- White inner circle -->
+  <circle cx="100" cy="100" r="85" fill="#FFFFFF"/>
+  
+  <!-- Green circle for text background -->
+  <circle cx="100" cy="100" r="80" fill="#26A17B"/>
+  
+  <!-- USDT Text -->
+  <text x="100" y="115" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#FFFFFF" text-anchor="middle">USDT</text>
+  
+  <!-- Subtitle -->
+  <text x="100" y="135" font-family="Arial, sans-serif" font-size="14" fill="#FFFFFF" text-anchor="middle" opacity="0.9">Tether USD</text>
+</svg>

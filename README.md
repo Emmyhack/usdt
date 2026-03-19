@@ -1,6 +1,24 @@
 # Custom USDT Token
 
+<div align="center">
+  <img src="./assets/usdt-logo.svg" alt="USDT Logo" width="150" height="150">
+  <p><strong>Tether USD</strong></p>
+</div>
+
 A custom Ethereum-based USDT token with advanced features including 6-month auto-burn, Chainlink price oracle integration, and DEX/CEX compatibility.
+
+## Token Metadata
+
+| Property | Value |
+|----------|-------|
+| **Name** | Tether USD |
+| **Symbol** | USDT |
+| **Decimals** | 6 |
+| **Standard** | ERC-20 |
+| **License** | MIT |
+| **Type** | Custom Implementation (separate from official Tether) |
+
+> ⚠️ **Important:** This is a custom USDT implementation with a different smart contract address than the official Tether USDT (0xdAC17F958D2ee523a2206206994597C13D831ec7). It uses official Tether branding under their brand guidelines.
 
 ## Features
 

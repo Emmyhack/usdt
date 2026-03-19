@@ -1,0 +1,30 @@
+{
+  "id": "custom-usdt",
+  "symbol": "USDT",
+  "name": "Tether USD",
+  "platforms": {
+    "ethereum": "0x...",
+    "sepolia": "0x..."
+  },
+  "image": {
+    "thumb": "https://raw.githubusercontent.com/Emmyhack/usdt/main/assets/tether-logo.png",
+    "small": "https://raw.githubusercontent.com/Emmyhack/usdt/main/assets/tether-logo.png",
+    "large": "https://raw.githubusercontent.com/Emmyhack/usdt/main/assets/tether-logo.png"
+  },
+  "description": {
+    "en": "Custom Tether USD token implementation with advanced DeFi features including 6-month auto-burn mechanism and Chainlink price oracle integration for real-time USD valuations."
+  },
+  "categories": ["stablecoin", "ethereum-ecosystem"],
+  "contract_address": "0x",
+  "public_notice": "This is a custom implementation of USDT. It is a separate smart contract from the official Tether USD (0xdAC17F958D2ee523a2206206994597C13D831ec7)",
+  "links": {
+    "homepage": ["https://github.com/Emmyhack/usdt"],
+    "documentation": ["https://github.com/Emmyhack/usdt/blob/main/README.md"],
+    "source_code": ["https://github.com/Emmyhack/usdt"],
+    "github": ["https://github.com/Emmyhack/usdt"]
+  },
+  "community": {
+    "discord": "",
+    "twitter": "https://twitter.com/Tether_to"
+  }
+}

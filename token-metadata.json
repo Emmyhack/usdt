@@ -1,0 +1,15 @@
+{
+  "chainId": 1,
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/Emmyhack/usdt/main/assets/tether-logo.png",
+  "website": "https://tether.to",
+  "documentation": "https://github.com/Emmyhack/usdt",
+  "socials": {
+    "twitter": "https://twitter.com/Tether_to",
+    "github": "https://github.com/Emmyhack/usdt"
+  },
+  "tags": ["stablecoin", "usd", "erc20"],
+  "description": "Custom Tether USD token with 6-month auto-burn and Chainlink price oracle integration"
+}
