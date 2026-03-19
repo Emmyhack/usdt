@@ -7,16 +7,16 @@
     "sepolia": "0x..."
   },
   "image": {
-    "thumb": "https://raw.githubusercontent.com/Emmyhack/usdt/main/assets/tether-logo.png",
-    "small": "https://raw.githubusercontent.com/Emmyhack/usdt/main/assets/tether-logo.png",
-    "large": "https://raw.githubusercontent.com/Emmyhack/usdt/main/assets/tether-logo.png"
+    "thumb": "https://drive.google.com/uc?export=download&id=1L3Ti_KkeIUjepNtgnFPYw28yU5vpyjmO",
+    "small": "https://drive.google.com/uc?export=download&id=1L3Ti_KkeIUjepNtgnFPYw28yU5vpyjmO",
+    "large": "https://drive.google.com/uc?export=download&id=1L3Ti_KkeIUjepNtgnFPYw28yU5vpyjmO"
   },
   "description": {
     "en": "Custom Tether USD token implementation with advanced DeFi features including 6-month auto-burn mechanism and Chainlink price oracle integration for real-time USD valuations."
   },
   "categories": ["stablecoin", "ethereum-ecosystem"],
   "contract_address": "0x",
-  "public_notice": "This is a custom implementation of USDT. It is a separate smart contract from the official Tether USD (0xdAC17F958D2ee523a2206206994597C13D831ec7)",
+  "public_notice": "This is a custom implementation of USDT using official Tether branding. It is a separate smart contract from the official Tether USD mainnet address (0xdAC17F958D2ee523a2206206994597C13D831ec7). Deployed on Ethereum/Sepolia testnet.",
   "links": {
     "homepage": ["https://github.com/Emmyhack/usdt"],
     "documentation": ["https://github.com/Emmyhack/usdt/blob/main/README.md"],

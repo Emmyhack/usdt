@@ -1,7 +1,7 @@
 # Custom USDT Token
 
 <div align="center">
-  <img src="./assets/usdt-logo.svg" alt="USDT Logo" width="150" height="150">
+  <img src="https://drive.google.com/uc?export=download&id=1L3Ti_KkeIUjepNtgnFPYw28yU5vpyjmO" alt="USDT Logo" width="150" height="150">
   <p><strong>Tether USD</strong></p>
 </div>
 

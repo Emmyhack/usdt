@@ -3,7 +3,8 @@
   "name": "Tether USD",
   "symbol": "USDT",
   "decimals": 6,
-  "logoURI": "https://raw.githubusercontent.com/Emmyhack/usdt/main/assets/tether-logo.png",
+  "logoURI": "https://drive.google.com/uc?export=download&id=1L3Ti_KkeIUjepNtgnFPYw28yU5vpyjmO",
+  "description": "Official Tether USD custom implementation with auto-burn and Chainlink integration",
   "website": "https://tether.to",
   "documentation": "https://github.com/Emmyhack/usdt",
   "socials": {
